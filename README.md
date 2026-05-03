@@ -5,8 +5,6 @@ This repository collects small projects and examples related to common architect
 The overview below is based on the architectural pattern categories introduced in the lecture.
 <img width="1339" height="618" alt="图片" src="https://github.com/user-attachments/assets/977d6db7-5adc-44c7-93aa-bb36b1e280d1" />
 
-![Architectural Pattern Overview](images/architectural-pattern-overview.png)
-
 ## Repository Structure
 
 ### 1. From Mud to Structure
